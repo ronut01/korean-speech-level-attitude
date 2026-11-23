@@ -1,0 +1,7 @@
+{"guid": "ynat-v1_train_08178", "task": "ynat", "text": {"title": "카톡으로 좋아하는 스타 소식 전해주는 스타봇 출시"}, "label": 0, "hash": "467bd946738cc4ca", "j": 0, "rot": 0, "cq": 0, "gen": false}
+{"guid": "ynat-v1_train_01569", "task": "ynat", "text": {"title": "고가아파트 취득에 세무조사 칼 빼들어… 257명 세무조사 착수"}, "label": 1, "hash": "d1864a9a65981228", "j": 0, "rot": 0, "cq": 0, "gen": false}
+{"guid": "ynat-v1_train_23013", "task": "ynat", "text": {"title": "獨정부 내년부터 비닐봉지 사용 금지키로"}, "label": 2, "hash": "3f49be592ed20846", "j": 0, "rot": 0, "cq": 0, "gen": false}
+{"guid": "ynat-v1_train_42039", "task": "ynat", "text": {"title": "꽃대신 고드름"}, "label": 3, "hash": "ab88e4e6ccabd575", "j": 0, "rot": 0, "cq": 0, "gen": false}
+{"guid": "ynat-v1_train_40524", "task": "ynat", "text": {"title": "131명 사상 필리핀 성당 테러 이슬람계 내부 갈등 탓"}, "label": 4, "hash": "adfa35b6c1417c02", "j": 0, "rot": 0, "cq": 0, "gen": false}
+{"guid": "ynat-v1_train_45016", "task": "ynat", "text": {"title": "한국야구 U23 세계선수권서 4위…베네수엘라에 패배"}, "label": 5, "hash": "4501db01dca1690e", "j": 0, "rot": 0, "cq": 0, "gen": false}
+{"guid": "ynat-v1_train_15075", "task": "ynat", "text": {"title": "장관후보 송곳검증 예고…이념편향·꼼수증여·땅투기 논란 쟁점종합2보"}, "label": 6, "hash": "e6345a4d199ad3d7", "j": 0, "rot": 0, "cq": 0, "gen": false}

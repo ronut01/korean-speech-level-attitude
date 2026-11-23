@@ -1,0 +1,18 @@
+{
+  "seed": 20261020,
+  "model": "Qwen/Qwen2.5-1.5B-Instruct",
+  "model_revision": "989aa7980e4cf806f80c7fef2b1adb7bc71aa306",
+  "dataset": "klue/klue",
+  "dataset_revision": "349481ec73fff722f88e0453ca05c77a447d967c",
+  "tasks": {
+    "ynat": {"per_class": 100, "gen_per_class": 20, "pilot_n": 50, "pilot_gen_n": 20, "neutral_gate": 0.40},
+    "nli":  {"per_class": 200, "gen_per_class": 40, "pilot_n": 50, "pilot_gen_n": 20, "neutral_gate": 0.50}
+  },
+  "fewshot_per_class": {"ynat": 0, "nli": 0},
+  "max_input_tokens": 512,
+  "max_new_tokens": 12,
+  "batch_size": 32,
+  "bootstrap_replicates": 10000,
+  "practical_margin": 0.03,
+  "gen_extraction_gate": 0.80
+}

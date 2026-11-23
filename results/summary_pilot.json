@@ -1,0 +1,428 @@
+{
+ "phase": "pilot",
+ "model": "Qwen/Qwen2.5-1.5B-Instruct",
+ "stimuli_provisional": false,
+ "bootstrap_replicates": 10000,
+ "practical_margin": 0.03,
+ "tasks": {
+  "ynat": {
+   "n_items": 50,
+   "n_excluded_over_token_limit": 0,
+   "quartets": [
+    "Q02",
+    "Q04"
+   ],
+   "acc": {
+    "YP": 0.65,
+    "YR": 0.61,
+    "BP": 0.64,
+    "BR": 0.61
+   },
+   "acc_neutral": {
+    "Y": 0.58,
+    "B": 0.62
+   },
+   "cand_mass": {
+    "YP": 0.9996764899999999,
+    "YR": 0.9994447900000003,
+    "BP": 0.99972927,
+    "BR": 0.9994934900000001
+   },
+   "D": {
+    "est": -0.01,
+    "lo": -0.08,
+    "hi": 0.05,
+    "p": 0.8751124887511249,
+    "within_margin": false,
+    "n": 50,
+    "p_holm": 0.8809119088091191
+   },
+   "attitude_effect": {
+    "Y": {
+     "est": -0.04,
+     "lo": -0.09,
+     "hi": 0.0,
+     "p": 0.11988801119888011,
+     "within_margin": false,
+     "n": 50
+    },
+    "B": {
+     "est": -0.03,
+     "lo": -0.1,
+     "hi": 0.04,
+     "p": 0.46965303469653036,
+     "within_margin": false,
+     "n": 50
+    }
+   },
+   "ending_effect": {
+    "est": 0.005,
+    "lo": -0.025,
+    "hi": 0.035,
+    "p": 0.8734126587341265,
+    "within_margin": false,
+    "n": 50
+   },
+   "attitude_main_effect": {
+    "est": -0.035,
+    "lo": -0.085,
+    "hi": 0.01,
+    "p": 0.18588141185881413,
+    "within_margin": false,
+    "n": 50
+   },
+   "D_by_quartet": {
+    "Q02": {
+     "est": 0.0,
+     "lo": -0.08,
+     "hi": 0.08,
+     "p": 1.0,
+     "within_margin": false,
+     "n": 50
+    },
+    "Q04": {
+     "est": -0.02,
+     "lo": -0.08,
+     "hi": 0.04,
+     "p": 0.75002499750025,
+     "within_margin": false,
+     "n": 50
+    }
+   },
+   "acc_by_quartet": {
+    "Q02": {
+     "YP": 0.62,
+     "YR": 0.62,
+     "BP": 0.62,
+     "BR": 0.62
+    },
+    "Q04": {
+     "YP": 0.68,
+     "YR": 0.6,
+     "BP": 0.66,
+     "BR": 0.6
+    }
+   },
+   "transitions": {
+    "Y": {
+     "correct_to_incorrect": 0.06,
+     "incorrect_to_correct": 0.02,
+     "incorrect_to_other_incorrect": 0.01,
+     "any_prediction_change": 0.09
+    },
+    "B": {
+     "correct_to_incorrect": 0.07,
+     "incorrect_to_correct": 0.04,
+     "incorrect_to_other_incorrect": 0.02,
+     "any_prediction_change": 0.13
+    },
+    "ending_P": {
+     "any_prediction_change": 0.04,
+     "net_accuracy_change": -0.010000000000000009
+    },
+    "ending_R": {
+     "any_prediction_change": 0.04,
+     "net_accuracy_change": 0.0
+    }
+   },
+   "generation": {
+    "n_items": 20,
+    "by_condition": {
+     "YP": {
+      "score_acc": 0.675,
+      "extracted_acc": 0.675,
+      "strict_format": 1.0,
+      "unparseable": 0.0,
+      "multi_answer": 0.0,
+      "hit_cap": 0.0
+     },
+     "YR": {
+      "score_acc": 0.675,
+      "extracted_acc": 0.675,
+      "strict_format": 1.0,
+      "unparseable": 0.0,
+      "multi_answer": 0.0,
+      "hit_cap": 0.0
+     },
+     "BP": {
+      "score_acc": 0.7,
+      "extracted_acc": 0.7,
+      "strict_format": 1.0,
+      "unparseable": 0.0,
+      "multi_answer": 0.0,
+      "hit_cap": 0.0
+     },
+     "BR": {
+      "score_acc": 0.625,
+      "extracted_acc": 0.625,
+      "strict_format": 1.0,
+      "unparseable": 0.0,
+      "multi_answer": 0.0,
+      "hit_cap": 0.0
+     }
+    },
+    "extraction_rate": 1.0,
+    "D_score_subset": {
+     "est": 0.075,
+     "lo": 0.0,
+     "hi": 0.15,
+     "p": 0.067993200679932,
+     "within_margin": false,
+     "n": 20
+    },
+    "D_extracted": {
+     "est": 0.075,
+     "lo": 0.0,
+     "hi": 0.15,
+     "p": 0.067993200679932,
+     "within_margin": false,
+     "n": 20
+    },
+    "D_strict_format": {
+     "est": 0.0,
+     "lo": 0.0,
+     "hi": 0.0,
+     "p": 1.0,
+     "within_margin": true,
+     "n": 20
+    }
+   }
+  },
+  "nli": {
+   "n_items": 50,
+   "n_excluded_over_token_limit": 0,
+   "quartets": [
+    "Q02",
+    "Q04"
+   ],
+   "acc": {
+    "YP": 0.54,
+    "YR": 0.5,
+    "BP": 0.56,
+    "BR": 0.5
+   },
+   "acc_neutral": {
+    "Y": 0.58,
+    "B": 0.58
+   },
+   "cand_mass": {
+    "YP": 0.9996679399999999,
+    "YR": 0.999675,
+    "BP": 0.99975228,
+    "BR": 0.9996998599999999
+   },
+   "D": {
+    "est": 0.02,
+    "lo": -0.02,
+    "hi": 0.06,
+    "p": 0.44045595440455954,
+    "within_margin": false,
+    "n": 50,
+    "p_holm": 0.8809119088091191
+   },
+   "attitude_effect": {
+    "Y": {
+     "est": -0.04,
+     "lo": -0.11,
+     "hi": 0.02,
+     "p": 0.2558744125587441,
+     "within_margin": false,
+     "n": 50
+    },
+    "B": {
+     "est": -0.06,
+     "lo": -0.13,
+     "hi": 0.0,
+     "p": 0.09759024097590241,
+     "within_margin": false,
+     "n": 50
+    }
+   },
+   "ending_effect": {
+    "est": -0.01,
+    "lo": -0.03,
+    "hi": 0.01,
+    "p": 0.44045595440455954,
+    "within_margin": false,
+    "n": 50
+   },
+   "attitude_main_effect": {
+    "est": -0.05,
+    "lo": -0.115,
+    "hi": 0.005,
+    "p": 0.11968803119688032,
+    "within_margin": false,
+    "n": 50
+   },
+   "D_by_quartet": {
+    "Q02": {
+     "est": 0.04,
+     "lo": 0.0,
+     "hi": 0.1,
+     "p": 0.24667533246675333,
+     "within_margin": false,
+     "n": 50
+    },
+    "Q04": {
+     "est": 0.0,
+     "lo": -0.06,
+     "hi": 0.06,
+     "p": 1.0,
+     "within_margin": false,
+     "n": 50
+    }
+   },
+   "acc_by_quartet": {
+    "Q02": {
+     "YP": 0.52,
+     "YR": 0.5,
+     "BP": 0.56,
+     "BR": 0.5
+    },
+    "Q04": {
+     "YP": 0.56,
+     "YR": 0.5,
+     "BP": 0.56,
+     "BR": 0.5
+    }
+   },
+   "transitions": {
+    "Y": {
+     "correct_to_incorrect": 0.06,
+     "incorrect_to_correct": 0.02,
+     "incorrect_to_other_incorrect": 0.03,
+     "any_prediction_change": 0.11
+    },
+    "B": {
+     "correct_to_incorrect": 0.07,
+     "incorrect_to_correct": 0.01,
+     "incorrect_to_other_incorrect": 0.03,
+     "any_prediction_change": 0.11
+    },
+    "ending_P": {
+     "any_prediction_change": 0.04,
+     "net_accuracy_change": 0.020000000000000018
+    },
+    "ending_R": {
+     "any_prediction_change": 0.01,
+     "net_accuracy_change": 0.0
+    }
+   },
+   "generation": {
+    "n_items": 20,
+    "by_condition": {
+     "YP": {
+      "score_acc": 0.575,
+      "extracted_acc": 0.575,
+      "strict_format": 0.85,
+      "unparseable": 0.0,
+      "multi_answer": 0.0,
+      "hit_cap": 0.0
+     },
+     "YR": {
+      "score_acc": 0.525,
+      "extracted_acc": 0.525,
+      "strict_format": 1.0,
+      "unparseable": 0.0,
+      "multi_answer": 0.0,
+      "hit_cap": 0.0
+     },
+     "BP": {
+      "score_acc": 0.6,
+      "extracted_acc": 0.6,
+      "strict_format": 0.875,
+      "unparseable": 0.0,
+      "multi_answer": 0.0,
+      "hit_cap": 0.0
+     },
+     "BR": {
+      "score_acc": 0.525,
+      "extracted_acc": 0.525,
+      "strict_format": 0.975,
+      "unparseable": 0.0,
+      "multi_answer": 0.0,
+      "hit_cap": 0.0
+     }
+    },
+    "extraction_rate": 1.0,
+    "D_score_subset": {
+     "est": 0.025,
+     "lo": 0.0,
+     "hi": 0.075,
+     "p": 0.5920407959204079,
+     "within_margin": false,
+     "n": 20
+    },
+    "D_extracted": {
+     "est": 0.025,
+     "lo": 0.0,
+     "hi": 0.075,
+     "p": 0.5920407959204079,
+     "within_margin": false,
+     "n": 20
+    },
+    "D_strict_format": {
+     "est": 0.05,
+     "lo": 0.0,
+     "hi": 0.125,
+     "p": 0.23347665233476653,
+     "within_margin": false,
+     "n": 20
+    }
+   }
+  }
+ },
+ "run_meta": [
+  {
+   "model": "Qwen/Qwen2.5-1.5B-Instruct",
+   "model_revision": "989aa7980e4cf806f80c7fef2b1adb7bc71aa306",
+   "device": "cuda",
+   "dtype": "torch.float16",
+   "torch": "2.14.1+cu130",
+   "transformers": "5.22.1",
+   "python": "3.13.16",
+   "seed": 20261020,
+   "phase": "pilot",
+   "gpu": "Tesla T4",
+   "stimuli_provisional": false,
+   "started": "2026-11-22 11:47:39",
+   "score_ynat": {
+    "n": 500,
+    "seconds": 10.8,
+    "peak_mem_gb": 3.33
+   },
+   "gen_ynat": {
+    "n": 160,
+    "seconds": 3.6,
+    "peak_mem_gb": 3.33
+   },
+   "score_nli": {
+    "n": 500,
+    "seconds": 11.0,
+    "peak_mem_gb": 3.43
+   },
+   "gen_nli": {
+    "n": 160,
+    "seconds": 3.9,
+    "peak_mem_gb": 3.43
+   },
+   "finished": "2026-11-22 11:48:09"
+  }
+ ],
+ "gates": {
+  "ynat": {
+   "neutral_acc": 0.6,
+   "neutral_gate": 0.4,
+   "neutral_pass": true,
+   "extraction_rate": 1.0,
+   "extraction_pass": true
+  },
+  "nli": {
+   "neutral_acc": 0.58,
+   "neutral_gate": 0.5,
+   "neutral_pass": true,
+   "extraction_rate": 1.0,
+   "extraction_pass": true
+  }
+ }
+}

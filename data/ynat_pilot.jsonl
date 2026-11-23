@@ -1,0 +1,50 @@
+{"guid": "ynat-v1_train_41206", "task": "ynat", "text": {"title": "갤럭시S8 소프트웨어 업데이트…엇갈린 소비자 반응"}, "label": 0, "hash": "cbb3ef07d35fea4d", "j": 0, "rot": 0, "cq": 0, "gen": true}
+{"guid": "ynat-v1_train_38922", "task": "ynat", "text": {"title": "KTB투자 상반기 영업익 242억원…8.7% 증가"}, "label": 1, "hash": "ac3c3b53492b283a", "j": 0, "rot": 0, "cq": 0, "gen": true}
+{"guid": "ynat-v1_train_23537", "task": "ynat", "text": {"title": "방통위 통신비인하 팔 걷었다…분리공시·비교공시 도입종합"}, "label": 2, "hash": "d74821c2a2d49b44", "j": 0, "rot": 0, "cq": 0, "gen": true}
+{"guid": "ynat-v1_train_26907", "task": "ynat", "text": {"title": "한국문학 거목 광장 최인훈 별세…향년 84세종합2보"}, "label": 3, "hash": "035478ad6d119f2f", "j": 0, "rot": 0, "cq": 0, "gen": true}
+{"guid": "ynat-v1_train_32722", "task": "ynat", "text": {"title": "메르켈 집무실 앞에 캠프 차린 멸종저항 활동가들"}, "label": 4, "hash": "affe5017d3efd430", "j": 0, "rot": 0, "cq": 0, "gen": true}
+{"guid": "ynat-v1_train_43696", "task": "ynat", "text": {"title": "구미 낙동강체육공원서 27일 LG기 주부배구대회 열려"}, "label": 5, "hash": "7830e059c00fa5f2", "j": 0, "rot": 0, "cq": 0, "gen": true}
+{"guid": "ynat-v1_train_07210", "task": "ynat", "text": {"title": "그래픽 남북정상회담 D1 미리보는 남북정상 만남의 순간"}, "label": 6, "hash": "efabfc0ca6061654", "j": 0, "rot": 0, "cq": 0, "gen": true}
+{"guid": "ynat-v1_train_11090", "task": "ynat", "text": {"title": "네이버홍콩과기대 공동 AI연구소 개설"}, "label": 0, "hash": "37a588cf383abd24", "j": 1, "rot": 1, "cq": 1, "gen": true}
+{"guid": "ynat-v1_train_28541", "task": "ynat", "text": {"title": "현대차증권 작년 순익 506억…中CERCG 사태에도 최고치"}, "label": 1, "hash": "c90a8773f7e25e9c", "j": 1, "rot": 1, "cq": 1, "gen": true}
+{"guid": "ynat-v1_train_35351", "task": "ynat", "text": {"title": "게시판 KT 궁바이오랩스와 스마트 산후조리 시스템 구축 MOU"}, "label": 2, "hash": "d594ba52915d429d", "j": 1, "rot": 1, "cq": 1, "gen": true}
+{"guid": "ynat-v1_train_34185", "task": "ynat", "text": {"title": "날씨 내일 서울·경기 더위 이어져…제주 밤에 빗방울"}, "label": 3, "hash": "4d99784280d28cd4", "j": 1, "rot": 1, "cq": 1, "gen": true}
+{"guid": "ynat-v1_train_23978", "task": "ynat", "text": {"title": "中 증강현실과 핀테크가 바꾼 춘제 세뱃돈 문화"}, "label": 4, "hash": "5b73899e72cf5ac4", "j": 1, "rot": 1, "cq": 1, "gen": true}
+{"guid": "ynat-v1_train_03850", "task": "ynat", "text": {"title": "박해민 싹쓸이 3루타…삼성 거침없이 5연승"}, "label": 5, "hash": "58d3c450d093a7d3", "j": 1, "rot": 1, "cq": 1, "gen": true}
+{"guid": "ynat-v1_train_17503", "task": "ynat", "text": {"title": "정의장 판문점선언 지지결의 무산에 참담하고 부끄럽다"}, "label": 6, "hash": "175a28dc1afdb0e1", "j": 1, "rot": 1, "cq": 1, "gen": true}
+{"guid": "ynat-v1_train_21257", "task": "ynat", "text": {"title": "PC로 전화·문자한다…SK텔레콤 콜싱크 서비스 출시"}, "label": 0, "hash": "cdc4da4154d31657", "j": 2, "rot": 2, "cq": 2, "gen": true}
+{"guid": "ynat-v1_train_14934", "task": "ynat", "text": {"title": "특징주 현대차증권 2분기 호실적에 신고가"}, "label": 1, "hash": "0e1e7848568c8a3a", "j": 2, "rot": 2, "cq": 2, "gen": true}
+{"guid": "ynat-v1_train_01626", "task": "ynat", "text": {"title": "SKT 전주지점 청년갤러리로 새 단장"}, "label": 2, "hash": "ba9dfaa771fc994f", "j": 2, "rot": 2, "cq": 2, "gen": true}
+{"guid": "ynat-v1_train_43411", "task": "ynat", "text": {"title": "여보게 올여름 피서는 템플스테이로 오시게"}, "label": 3, "hash": "43780641a385d151", "j": 2, "rot": 2, "cq": 2, "gen": true}
+{"guid": "ynat-v1_train_44998", "task": "ynat", "text": {"title": "이라크 바그다드서 유혈 반정부 시위 지속…5명 사망종합"}, "label": 4, "hash": "8db6ff2d7c13f3ba", "j": 2, "rot": 2, "cq": 2, "gen": true}
+{"guid": "ynat-v1_train_42714", "task": "ynat", "text": {"title": "프로야구 올스타 최다 득표 양의지 제구도 으뜸"}, "label": 5, "hash": "96a37bb63460a326", "j": 2, "rot": 2, "cq": 2, "gen": true}
+{"guid": "ynat-v1_train_14599", "task": "ynat", "text": {"title": "민주 김정은 평창 성공언급 긍정적…도발중단 진정성 보여야"}, "label": 6, "hash": "1131068c10c0ff47", "j": 2, "rot": 2, "cq": 2, "gen": false}
+{"guid": "ynat-v1_train_23821", "task": "ynat", "text": {"title": "박정호 5G 비즈니스모델 확장·글로벌 파트너십 강화해야"}, "label": 0, "hash": "ef0f4d42f7818d96", "j": 3, "rot": 3, "cq": 3, "gen": false}
+{"guid": "ynat-v1_train_01666", "task": "ynat", "text": {"title": "경제개혁연대 박삼구 금호산업 인수과정서 배임종합"}, "label": 1, "hash": "1d8850290ab5c232", "j": 3, "rot": 3, "cq": 3, "gen": false}
+{"guid": "ynat-v1_train_04762", "task": "ynat", "text": {"title": "KBS 사장후보자 정책발표회 첫 공개…시민자문단 평가 반영"}, "label": 2, "hash": "53780499576b9445", "j": 3, "rot": 3, "cq": 3, "gen": false}
+{"guid": "ynat-v1_train_22115", "task": "ynat", "text": {"title": "동해 물안개 속 일출"}, "label": 3, "hash": "a9b8e8b2cd3f15e3", "j": 3, "rot": 3, "cq": 3, "gen": false}
+{"guid": "ynat-v1_train_17941", "task": "ynat", "text": {"title": "파키스탄 법원 앞 탈레반 자폭테러…17명 사망"}, "label": 4, "hash": "02550e013136e032", "j": 3, "rot": 3, "cq": 3, "gen": false}
+{"guid": "ynat-v1_train_24195", "task": "ynat", "text": {"title": "이도연 사격준비"}, "label": 5, "hash": "7a7cde57cc4209a2", "j": 3, "rot": 3, "cq": 3, "gen": false}
+{"guid": "ynat-v1_train_21809", "task": "ynat", "text": {"title": "개헌에 대한 국민 생각은…온라인 의견 개진 활발"}, "label": 6, "hash": "828ba0e83d15dc25", "j": 3, "rot": 3, "cq": 3, "gen": false}
+{"guid": "ynat-v1_train_05586", "task": "ynat", "text": {"title": "美 화웨이 제재로 LGU 5G망 구축 차질 빚을까종합"}, "label": 0, "hash": "e15a116a60080883", "j": 4, "rot": 4, "cq": 0, "gen": false}
+{"guid": "ynat-v1_train_19674", "task": "ynat", "text": {"title": "신세계건설 640억원 규모 아파트 건설공사 수주"}, "label": 1, "hash": "84bdc6d838e5fb47", "j": 4, "rot": 4, "cq": 0, "gen": false}
+{"guid": "ynat-v1_train_38848", "task": "ynat", "text": {"title": "공시 열풍…지방공무원 7급 공채 경쟁률 122대 1"}, "label": 2, "hash": "aec0d56f35a052f7", "j": 4, "rot": 4, "cq": 0, "gen": false}
+{"guid": "ynat-v1_train_14454", "task": "ynat", "text": {"title": "북한날씨 흐리고 비 또는 눈"}, "label": 3, "hash": "ddb5ba18d340f3eb", "j": 4, "rot": 4, "cq": 0, "gen": false}
+{"guid": "ynat-v1_train_44464", "task": "ynat", "text": {"title": "케리 미 국무장관 쿠웨이트 독자 대북 압박 조치"}, "label": 4, "hash": "cc146e13899209e4", "j": 4, "rot": 4, "cq": 0, "gen": false}
+{"guid": "ynat-v1_train_37111", "task": "ynat", "text": {"title": "넥센 김민성·김하성 폭발…박병호의 뒤를 조심하라종합"}, "label": 5, "hash": "ab42419eadcf1afd", "j": 4, "rot": 4, "cq": 0, "gen": false}
+{"guid": "ynat-v1_train_24719", "task": "ynat", "text": {"title": "홍영표 시민단체·야3당과 5·18 망언 3인방 범국민 퇴출운동"}, "label": 6, "hash": "1344de39caabf507", "j": 4, "rot": 4, "cq": 0, "gen": false}
+{"guid": "ynat-v1_train_29155", "task": "ynat", "text": {"title": "위클리 스마트 대중교통에서 뭐 보세요…종이매체 0%대"}, "label": 0, "hash": "e2915e2711613777", "j": 5, "rot": 5, "cq": 1, "gen": false}
+{"guid": "ynat-v1_train_03031", "task": "ynat", "text": {"title": "남북 정상회담 앞두고 원달러 환율 6일만에 하락"}, "label": 1, "hash": "e46b4d391c21e853", "j": 5, "rot": 5, "cq": 1, "gen": false}
+{"guid": "ynat-v1_train_40597", "task": "ynat", "text": {"title": "오디·아로니아 사주세요 고성군 소비촉진 운동"}, "label": 2, "hash": "83161f84ad55fef6", "j": 5, "rot": 5, "cq": 1, "gen": false}
+{"guid": "ynat-v1_train_11338", "task": "ynat", "text": {"title": "천경자 고흐와 함께"}, "label": 3, "hash": "881668be135a550b", "j": 5, "rot": 5, "cq": 1, "gen": false}
+{"guid": "ynat-v1_train_35524", "task": "ynat", "text": {"title": "미국 동포들 고국 병원 골라서 간다…의료 한류 본격 발진종합"}, "label": 4, "hash": "9b85c25360cac81a", "j": 5, "rot": 5, "cq": 1, "gen": false}
+{"guid": "ynat-v1_train_35463", "task": "ynat", "text": {"title": "이란서 여성에 축구 직접관람 첫 허용…검찰 죄악 엄단종합"}, "label": 5, "hash": "57fc7db77a339ece", "j": 5, "rot": 5, "cq": 1, "gen": false}
+{"guid": "ynat-v1_train_10320", "task": "ynat", "text": {"title": "北김정은 노동당 위원장으로 추대…7차 당대회 폐막3보"}, "label": 6, "hash": "9e2c272f650b4298", "j": 5, "rot": 5, "cq": 1, "gen": false}
+{"guid": "ynat-v1_train_10482", "task": "ynat", "text": {"title": "애플 아이폰X 공개…페이스ID·OLED디스플레이 도입종합"}, "label": 0, "hash": "826a1d09b3cb500f", "j": 6, "rot": 6, "cq": 2, "gen": false}
+{"guid": "ynat-v1_train_31347", "task": "ynat", "text": {"title": "그래픽 원달러 환율 3년 5개월 만에 최저"}, "label": 1, "hash": "0739a54bbbd38abc", "j": 6, "rot": 6, "cq": 2, "gen": false}
+{"guid": "ynat-v1_train_08127", "task": "ynat", "text": {"title": "드루킹 공범 초뽀 영장심사"}, "label": 2, "hash": "6dcc41453eaeeb66", "j": 6, "rot": 6, "cq": 2, "gen": false}
+{"guid": "ynat-v1_train_03302", "task": "ynat", "text": {"title": "경기 25개 시·군 호우예비특보…오후 들어 또다시 비"}, "label": 3, "hash": "15d3c5f67edeb0e6", "j": 6, "rot": 6, "cq": 2, "gen": false}
+{"guid": "ynat-v1_train_03269", "task": "ynat", "text": {"title": "격추된 美무인기 이란 영공 경계 아슬아슬 비행한듯"}, "label": 4, "hash": "5f77f3457931033f", "j": 6, "rot": 6, "cq": 2, "gen": false}
+{"guid": "ynat-v1_train_01178", "task": "ynat", "text": {"title": "NC 두산마저 꺾고 7연승…가을야구 희망 KIA·삼성..."}, "label": 5, "hash": "5994fecfdaf94b32", "j": 6, "rot": 6, "cq": 2, "gen": false}
+{"guid": "ynat-v1_train_21827", "task": "ynat", "text": {"title": "남북정상회담 정의당 한반도평화 1일차…비핵화가 열쇠"}, "label": 6, "hash": "ee69b14f17675b81", "j": 6, "rot": 6, "cq": 2, "gen": false}
+{"guid": "ynat-v1_train_02514", "task": "ynat", "text": {"title": "카카오톡으로 예약하고 주문하고…수익형 플랫폼 변신"}, "label": 0, "hash": "4ba40c3b7ea8a921", "j": 7, "rot": 0, "cq": 3, "gen": false}

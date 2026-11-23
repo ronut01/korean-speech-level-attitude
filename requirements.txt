@@ -1,0 +1,7 @@
+torch>=2.3
+transformers>=4.49
+accelerate
+datasets>=3.0
+numpy
+pandas
+openpyxl
